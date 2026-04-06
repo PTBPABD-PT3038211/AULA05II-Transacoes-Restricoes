@@ -1,6 +1,6 @@
 -- Questão 1
 
-CREATE SCHEMA aula05-transacoes-restricoes
+CREATE SCHEMA aula05
 
 -- Questão 2
 
